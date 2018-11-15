@@ -21,7 +21,7 @@ blog_button:
     description: Visit blog
 
 # Navigation buttons in the front page.
-#nav:
+nav:
 #   - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: 
+    github: NorahBIAN
+    twitter: 
+    gplus: 
+    mail: bianyaoyi1010@gmail.com
 
 # Google Analytics
 ga:
